@@ -27,3 +27,4 @@ export const searchCep = async () => {
   const cepSpan = document.querySelector('.cart__address');
   cepSpan.innerText = data;
 };
+
